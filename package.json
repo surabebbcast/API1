@@ -4,7 +4,7 @@
   "description": "Aprendiendo Asincronismo en JavaScript",
   "main": "index.js",
   "scripts": {
-    "callback": "node Index.js"
+    "callback": "node async/index.js"
   },
   "keywords": [
     "callback",
